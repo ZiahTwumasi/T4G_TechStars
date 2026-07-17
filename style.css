@@ -69,3 +69,36 @@ body {
 .orange::before {
     background: #f7c28d;
 }
+
+.indigo::before {
+    background: #663399;
+}
+
+.red::before {
+    background: #f44336;
+}
+
+.yellow::before {
+    background: #ffeb3b;
+}
+
+.brown::before {
+    background: #a52a2a;
+}
+
+.grey::before {
+    background: #808080;
+}
+
+.pink::before {
+    background: #ff69b4;
+}
+
+.lilac::before {
+    background: #c8a2c8;
+}
+
+.teal::before {
+    background: #008080;
+}
+
