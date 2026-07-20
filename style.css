@@ -6,7 +6,7 @@
 }
 
 body {
-    background: #f4f6fb;
+    background: #dadce0;
 }
 
 .logo {
@@ -40,7 +40,7 @@ body {
     margin-bottom: 40px;
 }
 
-/* Individual card */
+/* Individual cards */
 .card {
     flex: 1 1 220px;
     background: white;
