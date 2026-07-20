@@ -10,12 +10,12 @@ body {
 }
 
 .logo {
-    font-size: 22px;
+    font-size: 30px;
     font-weight: bold;
-    background: #5b3cc4;
+    background: #1c0370;
     color: white;
     padding: 20px;
-    text-align: center;
+    text-align: left;
 }
 
 /* Main container */
@@ -71,8 +71,6 @@ body {
     font-weight: bold;
     font-size: 18px;
 }
-
-/* Beautiful modern colors */
 
 .purple::before {
     background: #8b5cf6;
