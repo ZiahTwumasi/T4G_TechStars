@@ -9,13 +9,42 @@ body {
     background: #dadce0;
 }
 
+/* Navbar */
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1c0370;
+    padding: 20px;
+}
+
 .logo {
     font-size: 30px;
     font-weight: bold;
-    background: #1c0370;
     color: white;
-    padding: 20px;
-    text-align: left;
+}
+
+.nav_right {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.help {
+    font-size: 22px;
+    cursor: pointer;
+}
+
+.avatar {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font: weight 500px;
 }
 
 /* Main container */
